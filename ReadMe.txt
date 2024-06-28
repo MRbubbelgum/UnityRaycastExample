@@ -1,0 +1,3 @@
+There are Three classes in this repository. The "DragCherry" and "UnityBuiltInDrag" does pretty much the same thing but the first is made manually and the other uses unitys built in on click methods.
+
+"DragCircle" is the class that actually handles interacting with objects behind other objects, so that might be the one you are looking for. But remember to follow the video to not miss important steps, like adding a new layer to the object you are trying to interact with.
